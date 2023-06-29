@@ -7,16 +7,16 @@
 
 - 🔭 I’m currently working on [TeacherDhundo](https://github.com/AryushGupta/teacherdhundo)
 
-- 🌱 I’m currently learning **JavaScript and Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **HTML , CSS , JavaScript**
+- 💬 Ask me about **HTML , CSS , JavaScript , Python**
 
 - 📫 How to reach me **its.aryush.official@gmail.com**
 
 - ⚡ Fun fact **I mostly write mediocre code🥲**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://aryushalllinks.netlify.app/" target="_blank"></a>
+<a href="https://aryushalllinks.netlify.app/" target="_blank" alt="Aryush-Gupta-Links"></a>
 <!-- <p align="left">
 <a href="https://twitter.com/gupta_aryush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gupta_aryush" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aryush-gupta-53b96b208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryush gupta" height="30" width="40" /></a>
