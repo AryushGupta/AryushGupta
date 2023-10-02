@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **its.aryush.official@gmail.com**
 
-- ⚡ Link to my website (https://aryushgupta.vercel.app/)
+- ⚡ Link to my website **https://aryushgupta.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
