@@ -1,19 +1,19 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/wave.gif" height="50" alt="Waving hand animated gif">, I'm Aryush Gupta</h1>
-<h3 align="center">A Passionate Developer , Open Source enthusiast from India</h3>
+<h3 align="center">A Passionate Developer from Bharat</h3>
 
 <img align="right" alt="astronaut-coding" width="400" src="https://media1.giphy.com/media/aYQXByWYLYoTmMGmz8/giphy.gif?cid=ecf05e47h9kr7w9fm9ga2wku9aa27gqfihmky49pmzix3r8q&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryushgupta&label=Profile%20views&color=0e75b6&style=flat" alt="aryushgupta" /> </p>
 
-- 🔭 I’m currently working on [TeacherDhundo](https://github.com/AryushGupta/teacherdhundo)
+- 🔭 I’m currently working on [ReHostify](https://github.com/AryushGupta/ReHostify)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **HTML , CSS , JavaScript , Python**
+- 💬 Ask me about **HTML , CSS , JavaScript , TailwindCSS , Nodejs**
 
 - 📫 How to reach me **its.aryush.official@gmail.com**
 
-- ⚡ Fun fact **I mostly write mediocre code🥲**
+- ⚡ Link to my website (https://aryushgupta.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
