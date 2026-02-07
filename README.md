@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/wave.gif" height="50" alt="Waving hand animated gif">, I'm Aryush Gupta</h1>
-<h3 align="center">A Passionate Developer from Bharat</h3>
+<h3 align="center">A Passionate Developer from India</h3>
 
 <img align="right" alt="astronaut-coding" width="400" src="https://media1.giphy.com/media/aYQXByWYLYoTmMGmz8/giphy.gif?cid=ecf05e47h9kr7w9fm9ga2wku9aa27gqfihmky49pmzix3r8q&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
