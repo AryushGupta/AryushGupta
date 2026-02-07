@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryushgupta&label=Profile%20views&color=0e75b6&style=flat" alt="aryushgupta" /> </p>
 
-- 🔭 I’m currently working on [ReHostify](https://github.com/AryushGupta/ReHostify)
-
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **HTML , CSS , JavaScript , TailwindCSS , Nodejs**
+- 💬 Ask me about **HTML , CSS , JavaScript , TailwindCSS , Nodejs , REST APIs**
 
 - 📫 How to reach me **its.aryush.official@gmail.com**
 
